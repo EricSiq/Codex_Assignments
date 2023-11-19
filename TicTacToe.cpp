@@ -121,3 +121,55 @@ int main()
 
     return 0;
 }
+/*Example Game
+Tic Tac Toe Game:
+|1| |2| |3|
+|4| |5| |6|
+|7| |8| |9|
+Player X, enter a corresponding number(1-9): 1
+Tic Tac Toe Game:
+|X| |2| |3|
+|4| |5| |6|
+|7| |8| |9|
+Player O, enter a corresponding number(1-9): 5
+Tic Tac Toe Game:
+|X| |2| |3|
+|4| |O| |6|
+|7| |8| |9|
+Player X, enter a corresponding number(1-9): 7
+Tic Tac Toe Game:
+|X| |2| |3|
+|4| |O| |6|
+|X| |8| |9|
+Player O, enter a corresponding number(1-9): 4
+Tic Tac Toe Game:
+|X| |2| |3|
+|O| |O| |6|
+|X| |8| |9|
+Player X, enter a corresponding number(1-9): 6
+Tic Tac Toe Game:
+|X| |2| |3|
+|O| |O| |X|
+|X| |8| |9|
+Player O, enter a corresponding number(1-9): 2
+Tic Tac Toe Game:
+|X| |O| |3|
+|O| |O| |X|
+|X| |8| |9|
+Player X, enter a corresponding number(1-9): 8
+Tic Tac Toe Game:
+|X| |O| |3|
+|O| |O| |X|
+|X| |X| |9|
+Player O, enter a corresponding number(1-9): 9
+Tic Tac Toe Game:
+|X| |O| |3|
+|O| |O| |X|
+|X| |X| |O|
+Player X, enter a corresponding number(1-9): 3
+Tic Tac Toe Game:
+|X| |O| |X|
+|O| |O| |X|
+|X| |X| |O|
+It's a draw!
+*/
